@@ -3,7 +3,7 @@
 ## Installation steps
 
 ```
-git clone https://costa.ls.fi.upm.es/gitlab/200356/sokoban.git
+git clone https://github.com/Esteve2604/Sokoban.git
 cd sokoban
 mvn compile
 mvn exec:java
@@ -92,6 +92,10 @@ This format allows players to save and resume games from a specific state.
 
 <h2> Authors: </h2>
 <h3>&#x2022; Ramiro Lopez Cento</h3>
-<h3>&#x2022; Marco Ciccale Baztán</h3>
+   <p>https://github.com/ramirolc02</p>
+<h3>&#x2022; Marco Ciccale Baztán</h3> 
+  <p>https://github.com/mciccale</p>
 <h3>&#x2022; Esteban Aspe Ruiz</h3>
+   <p>https://github.com/Esteve2604</p>
 <h3>&#x2022; Ernesto Naval Rodríguez</h3>
+   <p>https://github.com/encriptedErni</p>
